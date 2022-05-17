@@ -2,6 +2,11 @@
 <head>
     <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
     <script type="text/javascript" src="js/biblioteca.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+
     
     <script>
         $(function () {
@@ -99,19 +104,25 @@
                     }
                 });
         }
-
-
     </script>
 </head>
 <body>
-    <h1>Cobranças</h1>
-    <a href="cobrancaForm.html">Nova cobrança</a>
-    <br><br>
-    <a href="cobrancas.html?filtro=tudo">Todas</a> |  
-    <a href="cobrancas.html?filtro=pendente">Pendente</a> | 
-    <a href="cobrancas.html?filtro=enviado">Enviado</a>
-    <br> <br>
-    <table id="tbCobrancas" border="1">
+    <main>
+        <div class="container">
+          
+            <h1>Cobranças</h1>
+            <a href="cobrancaForm.html">Nova cobrança</a>
+            <br><br>
+            <a href="cobrancas.html?filtro=tudo">Todas</a> |  
+            <a href="cobrancas.html?filtro=pendente">Pendente</a> | 
+            <a href="cobrancas.html?filtro=enviado">Enviado</a>
+     
+        </div>
+   
+<div class="b-example-divider"></div>
+<div class="container">    
+    <table id="tbCobrancas" class="table table-striped table-sm">
+        <thead>
         <tr>
             <th>Cliente</th>
             <th>Endereço</th>
@@ -120,6 +131,7 @@
             <th>Vl. Cobrança</th>
             <th>Notificar cliente</th>
         </tr>
+    </thead>
         <tr class="linha" data-id="">
             <td class="cliente"></td>
             <td class="endereco"></td>
@@ -133,5 +145,10 @@
             </td>
         </tr>
     </table>
+ 
+</div>
+    </main>
+    
+</main>
 </body>
 </html>

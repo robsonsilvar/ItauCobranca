@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bLnYxDxb1YLSInOJEz8IiNDnyRgjCyXp3Ygck26t9LYra7q5T25zHqz2DNwns6fbajOs9e1TG2CbuS+IUFeN1g==",
+  "dgSpecHash": "72Wka8Non/dUkwpFwMlSy0SfsXY8m9L4KaaywitPqsQB6of7DPSkzlkQK0YMgTUVl4SgYMx9jUIW2C6BKDNSog==",
   "success": true,
-  "projectFilePath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj",
+  "projectFilePath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

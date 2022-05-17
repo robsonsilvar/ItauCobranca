@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u02OJWUmBkAVVkGTBGfgi4l/G5/yil/329wpQCM69vW0J4D3Ff71PxuyQQM1a6Vdhn8qxc1NXh7I3s591tEBsA==",
+  "dgSpecHash": "vTWz8846usHWXrZp/WA/eQ3klYH7cGY3stM5Eq0TvY+J0Ss6r2OsRbsSDiY9DbFQ2QGezKyMSZ+5Q2+JtSNOQg==",
   "success": true,
-  "projectFilePath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.WebAPI\\Itau.Cobranca.WebAPI.csproj",
+  "projectFilePath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.WebAPI\\Itau.Cobranca.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

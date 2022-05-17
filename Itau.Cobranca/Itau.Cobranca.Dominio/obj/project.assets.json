@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj",
+      "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj",
       "projectName": "Itau.Cobranca.Dominio",
-      "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj",
+      "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\obj\\",
+      "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

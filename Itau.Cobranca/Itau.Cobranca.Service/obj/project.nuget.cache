@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ehDsXFShMBIwT0bVJLbrJ3CrXgKAneLEt+ZeTj1oWwjGduT4UP4kcDaFl01sGLUmO72zL45dUWSVQnhGlk4N3g==",
+  "dgSpecHash": "XYGbeUB16XiPXUWYBPG+MPcnqXv2FtiUIxCQcw7ZRierH7O6X/7+lkHtnbLQ/GtjD8ksc70u/c/gkp6Nm9S7Zw==",
   "success": true,
-  "projectFilePath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Service\\Itau.Cobranca.Service.csproj",
+  "projectFilePath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Service\\Itau.Cobranca.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

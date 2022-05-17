@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.WebAPI\\Itau.Cobranca.WebAPI.csproj": {}
+    "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.WebAPI\\Itau.Cobranca.WebAPI.csproj": {}
   },
   "projects": {
-    "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj": {
+    "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj",
+        "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj",
         "projectName": "Itau.Cobranca.Repository",
-        "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj",
+        "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dados\\obj\\",
+        "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj": {
-                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj"
+              "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj": {
+                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj": {
+    "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj",
+        "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj",
         "projectName": "Itau.Cobranca.Dominio",
-        "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj",
+        "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\obj\\",
+        "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,14 +130,14 @@
         }
       }
     },
-    "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Service\\Itau.Cobranca.Service.csproj": {
+    "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Service\\Itau.Cobranca.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Service\\Itau.Cobranca.Service.csproj",
+        "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Service\\Itau.Cobranca.Service.csproj",
         "projectName": "Itau.Cobranca.Service",
-        "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Service\\Itau.Cobranca.Service.csproj",
+        "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Service\\Itau.Cobranca.Service.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Service\\obj\\",
+        "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -153,11 +153,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj": {
-                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj"
+              "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj": {
+                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj"
               },
-              "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj": {
-                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj"
+              "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj": {
+                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj"
               }
             }
           }
@@ -195,14 +195,14 @@
         }
       }
     },
-    "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.WebAPI\\Itau.Cobranca.WebAPI.csproj": {
+    "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.WebAPI\\Itau.Cobranca.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.WebAPI\\Itau.Cobranca.WebAPI.csproj",
+        "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.WebAPI\\Itau.Cobranca.WebAPI.csproj",
         "projectName": "Itau.Cobranca.WebAPI",
-        "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.WebAPI\\Itau.Cobranca.WebAPI.csproj",
+        "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.WebAPI\\Itau.Cobranca.WebAPI.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.WebAPI\\obj\\",
+        "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -218,14 +218,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj": {
-                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj"
+              "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj": {
+                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dados\\Itau.Cobranca.Repository.csproj"
               },
-              "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj": {
-                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj"
+              "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj": {
+                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Dominio\\Itau.Cobranca.Dominio.csproj"
               },
-              "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Service\\Itau.Cobranca.Service.csproj": {
-                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Service\\Itau.Cobranca.Service.csproj"
+              "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Service\\Itau.Cobranca.Service.csproj": {
+                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Service\\Itau.Cobranca.Service.csproj"
               }
             }
           }

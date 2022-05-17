@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L4tzw6JmxMKp0ykzjI3Ok1CYTH3pt5x7oJ+Jaga/OWrutC2Ctaq8s0BPPCfmJPTefhn8g9SAby6/dIfwrh1HOg==",
+  "dgSpecHash": "7Ur4JolzKmDNrKT5YXHNYj1WjnrT456ioZNwlcjzpEicC7gMEqrW0OBonhxKV59iR2Ib5yf9ODXI4yhRZjXTRQ==",
   "success": true,
-  "projectFilePath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Cobranca\\Itau.Cobranca.Tests\\Itau.Cobranca.Tests.csproj",
+  "projectFilePath": "E:\\Sistemas\\Projetos\\Itau\\Repositorio\\Itau.Cobranca\\Itau.Cobranca.Tests\\Itau.Cobranca.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
