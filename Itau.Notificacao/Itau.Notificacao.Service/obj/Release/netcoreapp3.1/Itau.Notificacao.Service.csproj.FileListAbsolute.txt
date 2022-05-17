@@ -1,0 +1,12 @@
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Notificacao\Itau.Notificacao.Service\bin\Release\netcoreapp3.1\Itau.Notificacao.Service.deps.json
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Notificacao\Itau.Notificacao.Service\bin\Release\netcoreapp3.1\Itau.Notificacao.Service.dll
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Notificacao\Itau.Notificacao.Service\bin\Release\netcoreapp3.1\Itau.Notificacao.Service.pdb
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Notificacao\Itau.Notificacao.Service\bin\Release\netcoreapp3.1\Itau.Notificacao.Dominio.dll
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Notificacao\Itau.Notificacao.Service\bin\Release\netcoreapp3.1\Itau.Notificacao.Dominio.pdb
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Notificacao\Itau.Notificacao.Service\obj\Release\netcoreapp3.1\Itau.Notificacao.Service.csprojAssemblyReference.cache
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Notificacao\Itau.Notificacao.Service\obj\Release\netcoreapp3.1\Itau.Notificacao.Service.AssemblyInfoInputs.cache
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Notificacao\Itau.Notificacao.Service\obj\Release\netcoreapp3.1\Itau.Notificacao.Service.AssemblyInfo.cs
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Notificacao\Itau.Notificacao.Service\obj\Release\netcoreapp3.1\Itau.Notificacao.Service.csproj.CoreCompileInputs.cache
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Notificacao\Itau.Notificacao.Service\obj\Release\netcoreapp3.1\Itau.Notificacao.Service.csproj.CopyComplete
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Notificacao\Itau.Notificacao.Service\obj\Release\netcoreapp3.1\Itau.Notificacao.Service.dll
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Notificacao\Itau.Notificacao.Service\obj\Release\netcoreapp3.1\Itau.Notificacao.Service.pdb

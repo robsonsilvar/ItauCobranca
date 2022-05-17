@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Itau.Cobranca.Dados\Itau.Cobranca.Repository.csproj" />
+    <ProjectReference Include="..\Itau.Cobranca.Dominio\Itau.Cobranca.Dominio.csproj" />
+    <ProjectReference Include="..\Itau.Cobranca.Service\Itau.Cobranca.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Itau.Notificacao.Dominio">
+      <HintPath>..\..\Itau.Notificacao\Itau.Notificacao.Service\bin\Release\netcoreapp3.1\Itau.Notificacao.Dominio.dll</HintPath>
+    </Reference>
+    <Reference Include="Itau.Notificacao.Service">
+      <HintPath>..\..\Itau.Notificacao\Itau.Notificacao.Service\bin\Release\netcoreapp3.1\Itau.Notificacao.Service.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>

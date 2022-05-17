@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.ServiceTests\\Itau.Notificacao.ServiceTests.csproj": {}
+  },
+  "projects": {
+    "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.Dominio\\Itau.Notificacao.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.Dominio\\Itau.Notificacao.Dominio.csproj",
+        "projectName": "Itau.Notificacao.Dominio",
+        "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.Dominio\\Itau.Notificacao.Dominio.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.ServiceTests\\Itau.Notificacao.ServiceTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.ServiceTests\\Itau.Notificacao.ServiceTests.csproj",
+        "projectName": "Itau.Notificacao.ServiceTests",
+        "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.ServiceTests\\Itau.Notificacao.ServiceTests.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.ServiceTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.Service\\Itau.Notificacao.Service.csproj": {
+                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.Service\\Itau.Notificacao.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.Service\\Itau.Notificacao.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.Service\\Itau.Notificacao.Service.csproj",
+        "projectName": "Itau.Notificacao.Service",
+        "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.Service\\Itau.Notificacao.Service.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.Dominio\\Itau.Notificacao.Dominio.csproj": {
+                "projectPath": "E:\\Sistemas\\Projetos\\Itau\\Repositorios2\\Itau.Notificacao\\Itau.Notificacao.Dominio\\Itau.Notificacao.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Twilio": {
+              "target": "Package",
+              "version": "[5.75.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

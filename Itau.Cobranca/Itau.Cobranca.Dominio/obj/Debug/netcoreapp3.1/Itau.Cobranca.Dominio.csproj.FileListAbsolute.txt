@@ -1,0 +1,9 @@
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Cobranca\Itau.Cobranca.Dominio\bin\Debug\netcoreapp3.1\Itau.Cobranca.Dominio.deps.json
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Cobranca\Itau.Cobranca.Dominio\bin\Debug\netcoreapp3.1\Itau.Cobranca.Dominio.dll
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Cobranca\Itau.Cobranca.Dominio\bin\Debug\netcoreapp3.1\Itau.Cobranca.Dominio.pdb
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Cobranca\Itau.Cobranca.Dominio\obj\Debug\netcoreapp3.1\Itau.Cobranca.Dominio.AssemblyInfoInputs.cache
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Cobranca\Itau.Cobranca.Dominio\obj\Debug\netcoreapp3.1\Itau.Cobranca.Dominio.AssemblyInfo.cs
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Cobranca\Itau.Cobranca.Dominio\obj\Debug\netcoreapp3.1\Itau.Cobranca.Dominio.csproj.CoreCompileInputs.cache
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Cobranca\Itau.Cobranca.Dominio\obj\Debug\netcoreapp3.1\Itau.Cobranca.Dominio.dll
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Cobranca\Itau.Cobranca.Dominio\obj\Debug\netcoreapp3.1\Itau.Cobranca.Dominio.pdb
+E:\Sistemas\Projetos\Itau\Repositorios2\Itau.Cobranca\Itau.Cobranca.Dominio\obj\Debug\netcoreapp3.1\Itau.Cobranca.Dominio.csprojAssemblyReference.cache

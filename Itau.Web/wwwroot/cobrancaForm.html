@@ -1,0 +1,91 @@
+<html>
+<head>
+    <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="js/biblioteca.js"></script>
+    <script>
+        $(function () {
+            Iniciar();
+
+        });
+
+        function Iniciar() {
+            $("#btnSalvar").click(function () {
+                Inserir();
+            });
+        }
+
+        function Inserir() {            
+            var itemJson = {};
+            itemJson["ClienteNome"] = $("#txtNome").val();
+            itemJson["ClienteEndereco"] = $("#txtEnd").val();
+            itemJson["ClienteCelular"] = $("#txtCel").val();
+            itemJson["ClienteEmail"] = $("#txtEmail").val();
+            itemJson["ValorCobranca"] = parseFloat( $("#txtValor").val());         
+
+            $.ajax(
+                {
+                    type: 'POST',
+                    url: "https://localhost:44383/cobranca",
+                    dataType: 'json',
+                    crossDomain: true,
+                    async: false,
+                    data: JSON.stringify(itemJson),
+                    contentType: "application/json; charset=utf-8",
+                    success: function (itemJson) {
+
+                    },
+                    error: function (xhr, ajaxOptions, thrownError) {
+                       
+                        if (xhr.status != 200) {
+                            if (xhr.status == 400) {
+                                alert(xhr.responseText );
+                            } else {
+                                alert("Erro. Tente novamente mais tarde.");
+                            }
+                        }
+                           
+                    },
+                    statusCode: {
+                        200: function () {
+                            alert("Salvo com sucesso!");
+                            window.location="cobrancas.html";
+                        }
+
+                    }
+                });
+        }
+
+    </script>
+</head>
+<body>
+    <h1>Inserir Cobrança</h1>  
+    <a href="cobrancas.html?filtro=tudo">Listar Cobranças</a>
+    <br><br>
+    <table id="tbCobrancas" border="0">
+        <tr>
+            <td>Cliente</td>
+            <td><input type="text" name="txtNome" id="txtNome" /></td>
+        </tr>
+        <tr>
+            <td>Endereço</td>
+            <td> <input type="text" name="txtEnd" id="txtEnd" /></td>
+        </tr>
+        <tr>
+            <td>Celular</td>
+            <td>  <input type="text" name="txtCel" id="txtCel" /></td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td> <input type="text" name="txtEmail" id="txtEmail" /></td>
+        </tr>
+        <tr>
+            <td>Vl. Cobrança</td>
+            <td class="email"> <input type="text" name="txtValor" id="txtValor" value="0" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="button" id="btnSalvar" value="Salvar" /></td>
+        </tr>
+    </table>
+</body>
+</html>

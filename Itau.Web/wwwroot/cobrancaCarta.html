@@ -1,0 +1,70 @@
+<html>
+<head>
+    <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="js/biblioteca.js"></script>
+    <script>
+        $(function () {
+            Iniciar();
+        });
+
+        function Iniciar() {
+            CarregarCobranca();
+            window.print();
+        }
+
+        function CarregarCobranca() {
+            $.ajax(
+                {
+                    type: 'GET',
+                    url: "https://localhost:44383/cobranca/" + GetParametro("id"),
+                    dataType: 'json',
+                    crossDomain: true,
+                    async: false,
+                    success: function (data) {
+                        $(data).each(function () {
+                            var registro = $(this)[0];
+                            $(".cliente").html(registro.clienteNome);
+                            $(".endereco").html(registro.clienteEndereco);
+                            $(".celular").html(registro.clienteCelular);
+                            $(".email").html(registro.clienteEmail);
+                            $(".valor").html(registro.valorCobranca);
+                           
+                        });
+                    }
+                });
+
+        }
+
+    </script>
+</head>
+<body>
+    <h1>Cobrança</h1>
+    <table id="tbCobrancas" border="1" width="80%">
+        <tr>
+            <th>Cliente</th>
+            <th>Endereço</th>
+        </tr>
+        <tr  >
+            <td class="cliente"></td>
+            <td class="endereco"></td>
+        </tr>
+        <tr>
+            <th>Celular</th>
+            <th>Email</th>
+        </tr>
+
+        <tr class="linha">
+            <td class="celular"></td>
+            <td class="email"></td>
+        </tr>
+        <tr>
+            <th>Vl. Cobrança</th>
+        </tr>
+        <tr>
+            <td class="valor"></td>
+        </tr>
+
+
+    </table>
+</body>
+</html>

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itau.Cobranca.Dominio", "Itau.Cobranca.Dominio\Itau.Cobranca.Dominio.csproj", "{8B8B4C37-991D-4847-9868-7669D9907C5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itau.Cobranca.Repository", "Itau.Cobranca.Dados\Itau.Cobranca.Repository.csproj", "{D60F57AA-72D6-40B6-AD04-E0D380A4A402}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itau.Cobranca.Service", "Itau.Cobranca.Service\Itau.Cobranca.Service.csproj", "{B9508A44-A00E-424B-97B3-25E849421C7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itau.Cobranca.WebAPI", "Itau.Cobranca.WebAPI\Itau.Cobranca.WebAPI.csproj", "{D4169904-208D-43CE-9E94-7BF4820F134E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itau.Cobranca.Tests", "Itau.Cobranca.Tests\Itau.Cobranca.Tests.csproj", "{136A0A53-9F26-4384-BD9B-4539501C2CE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B8B4C37-991D-4847-9868-7669D9907C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8B4C37-991D-4847-9868-7669D9907C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8B4C37-991D-4847-9868-7669D9907C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8B4C37-991D-4847-9868-7669D9907C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60F57AA-72D6-40B6-AD04-E0D380A4A402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60F57AA-72D6-40B6-AD04-E0D380A4A402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60F57AA-72D6-40B6-AD04-E0D380A4A402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60F57AA-72D6-40B6-AD04-E0D380A4A402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9508A44-A00E-424B-97B3-25E849421C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9508A44-A00E-424B-97B3-25E849421C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9508A44-A00E-424B-97B3-25E849421C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9508A44-A00E-424B-97B3-25E849421C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4169904-208D-43CE-9E94-7BF4820F134E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4169904-208D-43CE-9E94-7BF4820F134E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4169904-208D-43CE-9E94-7BF4820F134E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4169904-208D-43CE-9E94-7BF4820F134E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136A0A53-9F26-4384-BD9B-4539501C2CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136A0A53-9F26-4384-BD9B-4539501C2CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136A0A53-9F26-4384-BD9B-4539501C2CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136A0A53-9F26-4384-BD9B-4539501C2CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5253FA1-3640-424F-A3C1-3872D0DB9E9E}
+	EndGlobalSection
+EndGlobal
